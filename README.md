@@ -1,11 +1,3 @@
-Aqui está o **README.md** atualizado com a alteração do arquivo e classe para **ModuloDois**:
-
-# Desafios de Console em Java: Sabor & Arte e Indicadores Regionais
-
-Este repositório contém duas aplicações de console desenvolvidas em Java. O objetivo principal destes projetos é exercitar lógica de programação, estruturas de repetição, fluxos condicionais e manipulação de dados via terminal.
-
----
-
 ## 📌 Sobre os Projetos
 
 ### 1. Sistema de Pedidos — Sabor & Arte (`ModuloUm.java`)
